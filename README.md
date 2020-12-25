@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi is 74LS73 👋
 
 <!--
 **74LS73/74LS73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```
+  _   _      _ _    __        __         _     _ 
+ | | | | ___| | | __\ \      / /__  _ __| | __| |
+ | |_| |/ _ \ | |/ _ \ \ /\ / / _ \| '__| |/ _` |
+ |  _  |  __/ | | (_) \ V  V / (_) | |  | | (_| |
+ |_| |_|\___|_|_|\___/ \_/\_/ \___/|_|  |_|\__,_|
+ 
+```
